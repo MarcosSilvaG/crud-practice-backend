@@ -4,7 +4,7 @@
   "description": "Backend for prestaditto app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node lib/server.js"
   },
   "keywords": [],
   "author": "Marcos Silva(washipah)",
