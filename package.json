@@ -4,7 +4,8 @@
   "description": "Backend for prestaditto app",
   "main": "index.js",
   "scripts": {
-    "start": "node lib/server.js"
+    "start": "node lib/server.js",
+    "dev": "nodemon lib/server.js"
   },
   "keywords": [],
   "author": "Marcos Silva(washipah)",
